@@ -20,6 +20,6 @@
 ---
 include:
   - board: nice_nano_v2
-    shield: lab_left
+    shield: draculad_left
   - board: nice_nano_v2
-    shield: lab_right
+    shield: draculad_right
