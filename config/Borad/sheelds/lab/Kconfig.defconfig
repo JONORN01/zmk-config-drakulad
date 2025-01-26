@@ -1,0 +1,6 @@
+if SHIELD_LAB
+
+config ZMK_KEYBOARD_NAME
+    default "lab"
+
+endif
